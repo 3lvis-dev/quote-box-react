@@ -2,8 +2,6 @@ import React from 'react'
 
 const QuoteBox = ({randomQuote, randomColors, getRandomAll}) => {
 
-  console.log(randomColors)
-
   const objectStyle = {
     color: randomColors
   }
