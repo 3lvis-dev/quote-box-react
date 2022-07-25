@@ -35,7 +35,6 @@ function App() {
         randomColors={randomColors}
         getRandomAll={getRandomAll}
       />
-      <br />
     </div>
   )
 }
