@@ -60,8 +60,7 @@ h2, p {
   justify-content: center;
   width: 10%;
   height: 100%;
-  margin: auto;
-  font-size: 7rem;
+  font-size: 5rem;
 }
 
 .card__author {
